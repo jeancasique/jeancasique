@@ -1,4 +1,4 @@
-## Hola, mi Nombre es Jean Paul 👋
+## Hi! my Name is Jean Paul 👋
 
 
 
