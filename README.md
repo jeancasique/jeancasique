@@ -1,4 +1,4 @@
-##👋 Hello! My name is Jean Paul Casique Hernández.
+👋 Hello! My name is Jean Paul Casique Hernández.
 
 I am a junior iOS developer, having graduated from the Boot Camp at Campus Digital San Blas in Madrid, Spain, where I specialized in creating mobile applications using Kotlin and Swift. Additionally, I've enhanced my education with advanced courses on Udemy, guided by renowned full-stack developers like Brais MoureDev and Juan Villalvazo.
 
