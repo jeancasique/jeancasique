@@ -1,6 +1,6 @@
 👋 Hello! My name is Jean Paul Casique Hernández.
 
-I am a junior iOS developer, having graduated from the Boot Camp at Campus Digital San Blas in Madrid, Spain, where I specialized in creating mobile applications using Kotlin and Swift. Additionally, I've enhanced my education with advanced courses on Udemy, guided by renowned full-stack developers like Brais MoureDev and Juan Villalvazo.
+I am an iOS developer, having graduated from the Boot Camp at Campus Digital San Blas in Madrid, Spain, where I specialized in creating mobile applications using Kotlin and Swift. Additionally, I've enhanced my education with advanced courses on Udemy, guided by renowned full-stack developers like Brais MoureDev and Juan Villalvazo.
 
 Currently, I'm working as a freelancer on an exciting project for a personal trainer. I'm developing an app that allows users to scan products, calculate their calorie content, and compare them with other foods, utilizing technologies like Firebase for authentication and data storage. This project has not only allowed me to apply my technical skills but also to improve my ability to manage projects autonomously and efficiently.
 
@@ -22,7 +22,7 @@ Español:
 
 👋 ¡Hola! Mi nombre es Jean Paul Casique Hernández.
 
-Soy un desarrollador junior especializado en iOS, graduado del Boot Camp en Campus Digital San Blas en Madrid, España, donde me formé en la creación de aplicaciones móviles tanto en Kotlin como en Swift. Además, he complementado mi formación con cursos avanzados en Udemy, guiados por reconocidos programadores full-stack como Brais MoureDev y Juan Villalvazo.
+Soy un desarrollador especializado en iOS, graduado del Boot Camp en Campus Digital San Blas en Madrid, España, donde me formé en la creación de aplicaciones móviles tanto en Kotlin como en Swift. Además, he complementado mi formación con cursos avanzados en Udemy, guiados por reconocidos programadores full-stack como Brais MoureDev y Juan Villalvazo.
 
 Actualmente, estoy trabajando como freelance en un proyecto emocionante para un entrenador personal. Estoy desarrollando una aplicación que permite escanear productos, calcular su contenido calórico y compararlo con otros alimentos, utilizando tecnologías como Firebase para la autenticación y almacenamiento de datos. Este proyecto no solo me ha permitido aplicar mis habilidades técnicas, sino también mejorar mi capacidad para gestionar proyectos de manera autónoma y eficiente.
 
